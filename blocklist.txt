@@ -84,8 +84,8 @@
 0.0.0.0 fb.net
 0.0.0.0 www.fb.de
 0.0.0.0 fb.de
-0.0.0.0 mas-sdk-eu.amazon.com
-0.0.0.0 mas-ext-eu.amazon.com
+#0.0.0.0 mas-sdk-eu.amazon.com
+#0.0.0.0 mas-ext-eu.amazon.com
 0.0.0.0 dp-discovery-na-ext.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device-metrics-us-0.amazon.com
